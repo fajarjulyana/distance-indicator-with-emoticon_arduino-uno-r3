@@ -3,7 +3,7 @@ distance-indicator-with-emoticon_arduino-uno-r3
 ## Necessary materials
 1. Arduino Uno
 2. MAX7219 8x8 LED DOT MATRIX DISPLAY MODULE
-3. Capasitive Soil Moisture Sensor
+3. HC-SR04 Ultrasonic Sensor 
 4. Jumper Wire
 # Wiring
 <img src="capture/wiring.jpg"><br>
